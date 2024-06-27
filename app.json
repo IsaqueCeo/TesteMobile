@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TesteMobile",
-    "slug": "TesteMobile",
+    "slug": "mobileteste",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b3de2f4b-5090-47d1-9941-c9316fa36aab"
+      }
+    },
+    "owner": "isaqueceo"
   }
 }
